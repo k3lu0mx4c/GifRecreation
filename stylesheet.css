@@ -55,7 +55,7 @@ body { background:black; overflow:hidden; }
   10%, 15%, 35%, 40%, 60%, 65%, 85%, 90%  { 
     background: black; 
     box-shadow:
-      178px 0 0 -25px black,
+      //178px 0 0 -25px black,
       178px 0 0 -20px white,
       -178px 0 0 -25px black,
       -178px 0 0 -20px white, 
